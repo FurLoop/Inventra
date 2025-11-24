@@ -31,8 +31,8 @@ For business owners, Inventra provides automated low-stock alerts, supplier mana
  -Git
 
 ### Step 1 Clone the Repository
-git clone https://github.com/your-username/Riyas_CSE2_SmartInventorySystem.git
-cd Riyas_CSE2_SmartInventorySystem
+git clone https://github.com/FurLoop/Inventra.git
+cd Inventra
 
 ### Step 2 Set Up the Backend
 cd backend
